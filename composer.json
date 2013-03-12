@@ -13,11 +13,17 @@
       "email": "ehtnam6@gmail.com"
     }
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/pocket7878/opauth-flickr.git"
+    }
+  ],
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.3.0",
     "anahkiasen/underscore-php": "dev-master",
-    "opauth/flickr": "dev-master",
+    "pocket7878/opauth-flickr": "dev-master",
     "themattharris/tmhOAuth": "dev-master",
     "illuminate/cache": "dev-master",
     "illuminate/http": "dev-master",
